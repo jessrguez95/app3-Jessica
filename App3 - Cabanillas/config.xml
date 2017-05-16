@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "com.phonegap.app3cabanillas"
+version = "1.0.0">
+<name>App3 - JessicaCabanillas</name>
+
+<description>
+3ra Aplicacion con PhoneGap
+</description>
+
+<author href="https://example.com" email="example@example.com">
+Jessica Cabanillas
+</author>
+
+<icon src="jquery-mobile/images/6.png" gap:density="ldpi" gap:platform="android" />
+<icon src="jquery-mobile/images/6.png" gap:density="mdpi" gap:platform="android" />
+<icon src="jquery-mobile/images/6.png" gap:density="hdpi" gap:platform="android" />
+<icon src="jquery-mobile/images/6.png" gap:density="xhdpi" gap:platform="android" />
+
+</widget>
+
